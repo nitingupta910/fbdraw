@@ -2,6 +2,13 @@
 name = "fbdraw"
 version = "0.1.0"
 edition = "2021"
+authors = ["Nitin Gupta <ngupta@nitingupta.dev>"]
+license = "Apache-2.0"
+description = "put_pixel(x, y, color) without the pain"
+repository = "https://github.com/nitingupta910/fbdraw"
+readme = "README.md"
+keywords = ["graphics", "framebuffer"]
+categories = ["rendering"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
